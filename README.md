@@ -1,4 +1,4 @@
-bangnibaidu
+帮你百度
 ===========
 
-a lmgtfy for baidu.com
+我讨厌百度，但是有人喜欢
